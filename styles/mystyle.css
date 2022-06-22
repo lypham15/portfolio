@@ -1,0 +1,27 @@
+
+body{
+	font-family: helvetica;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+}
+
+.menu {
+  overflow: hidden;
+}
+
+.menu a {
+  float: center;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.menu a:hover {
+  background-color: #D4D4D4;
+  color: white;
+}
